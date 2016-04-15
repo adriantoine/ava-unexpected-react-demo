@@ -1,4 +1,4 @@
-Example project with [React](https://facebook.github.io/react/) + [`unexpected-react`](https://github.com/bruderstein/unexpected-react) + [AVA](https://github.com/sindresorhus/ava)
+Sample project showing [AVA](https://github.com/sindresorhus/ava) unit tests for [React](https://facebook.github.io/react/) components using [`unexpected-react`](https://github.com/bruderstein/unexpected-react).
 
 ## Install and try
 
