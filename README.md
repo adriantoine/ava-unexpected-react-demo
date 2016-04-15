@@ -5,4 +5,5 @@ Example project with [React](https://facebook.github.io/react/) + [`unexpected-r
 
 - Clone this repository
 - Run `npm it`
-- Enjoy
+- Enjoy:
+![Output example](https://raw.githubusercontent.com/adriantoine/ava-unexpected-react-demo/master/.gh/output.png)
